@@ -88,3 +88,8 @@ production:
   dapter: postgresql
   encoding: unicode
   pool: 5
+  username: ldyfypqyzukovj
+  hostname: ec2-174-129-18-98.compute-1.amazonaws.com
+  port: 5432
+  database: d6t519s861i7d1
+  password: e7aecd612cff089e08bbfc732eb159bcdf3b1d630aa2062aae25368c01b6bdd1
